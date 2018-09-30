@@ -1,0 +1,21 @@
+{
+    "name": "mgluetemplate",
+    "version": "1.0.0",
+    "description": "minimal mglue template folder",
+    "scripts": {
+      "watch": "webpack-dev-server --inline --content-base public/"
+    },
+    "author": "Jonathan Brodsky",
+    "license": "MIT",
+    "devDependencies": {
+      "mglue": "1.0.0-prerelease.1",
+      "typescript": "^2.8.0",
+      "webpack": "^3.5.3",
+      "webpack-dev-server": "^2.7.1",
+      "ts-loader": "^3.2.0"
+    },
+    "engines": {
+      "node": "6.x"
+    }
+  }
+  

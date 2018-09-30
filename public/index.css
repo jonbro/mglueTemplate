@@ -1,0 +1,11 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #c0c0c0;
+    color: #000;
+    width: 100%; max-width: 640px;
+    margin: 0 auto 0 auto;
+}
+canvas {
+    width: 100%;
+    background-color: #000;
+}
