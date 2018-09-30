@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "minimal mglue template folder",
     "scripts": {
+      "build": "webpack --env.build",
       "watch": "webpack-dev-server --inline --content-base public/"
     },
     "author": "Jonathan Brodsky",

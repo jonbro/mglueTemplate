@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './client_src/saveFace.ts',
+  entry: './client_src/glueGame.ts',
   module: {
     rules: [
       {
